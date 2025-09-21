@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2936247436437223858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3367251921346241565}
+  - component: {fileID: 5357856969656531970}
+  m_Layer: 0
+  m_Name: CarRand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3367251921346241565
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2936247436437223858}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -189.5, y: -0.05, z: -54.22}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5357856969656531970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2936247436437223858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa221a1a7c72d4840a7d6a2575623041, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  yellowCar: {fileID: 118654138686014453, guid: 917800fc02a8fb540a65d59454d8d46a, type: 3}
+  RedCar: {fileID: 118654138686014453, guid: e6dfcebcf728c7547b4dcd28481dff65, type: 3}
+  BlueCar: {fileID: 118654138686014453, guid: 5110e66649ee14349b5a06d039d67d2e, type: 3}
+  GreenCar: {fileID: 118654138686014453, guid: dd25f86b38b96f04fa86a93534c82163, type: 3}
+  BlackCar: {fileID: 118654138686014453, guid: 9df8f38139de67a46a50f01ac7958d6b, type: 3}
+  WhiteCar: {fileID: 118654138686014453, guid: b68db67d1ac10d4449be4cb83b2bc170, type: 3}
+  BrownCar: {fileID: 118654138686014453, guid: fc573ce3aa3e2dc41b4c7a756731798d, type: 3}
+  chosen: 0

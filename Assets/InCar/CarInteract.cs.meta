@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8ec62cd0dd4d5448992a1cfe40d8db9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CarPrompt: {instanceID: 0}
+  - CarPrefab: {instanceID: 0}
+  - player: {instanceID: 0}
+  - myDoor: {fileID: 6171493814116522731, guid: fa91c3e0f6c9f244f80c2ee5af77c263, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
